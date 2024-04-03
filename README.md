@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pumudu Nadun Rajakaruna</h1>
 <h3 align="center">A passionate Computer Engineering Undergraduate</h3>
 
-- 🌱 I’m currently learning **Flutter, Machine Learning, UI/UX Principles s**
+- 🌱 I’m currently learning **Flutter, Machine Learning, UI/UX Principles**
 
 - 💬 Ask me about **OOP, DSA, Databases**
 
